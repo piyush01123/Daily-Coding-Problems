@@ -13,16 +13,17 @@ List of problems:
 6. XOR Linked list (Google) - Solved - C++
 7. Number of ways to decode a message (Facebook) - Solved -  Python, C++
 8. Universal Value Tree Count (Google) - Solved - Python
-9. Largest sum of non-adjacent numbers in array (Airbnb)- Not solved
-10. Job Scheduler (Apple) - Not solved
+9. Largest sum of non-adjacent numbers in array (Airbnb)-
+Solved - Python
+10. Job Scheduler (Apple) - Solved - Python
 11. Autocomplete system (Twitter) - Not solved
 12. Number of ways to climb a staircase (Amazon) - Solved - Python
-13. Longest substring with at most K characters (Amazon) - Not solved
+13. Longest substring with at most K distinct characters (Amazon) - Not solved
 14. Pi estimation using Monte Carlo method (Google)- Solved - Python
 15. Random element from large input stream (Facebook) - Not solved
-16. Order Log (Twitter) - Not solved
+16. Order Log (Twitter) - Solved - Python
 17. Directory structure (Google) - Not solved
-18. Max of each Subarray (Google) - Not solved
+18. Max of each Subarray (Google) - Solved - Python
 19. House paint problem (Facebook) - Not solved
 20. Intersecting Linked Lists (Google) - Solved - Python
 21. Classroom Scheduling problem (Snapchat) - Solved - Python
