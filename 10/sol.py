@@ -1,3 +1,6 @@
+import unittest
+import time
+
 def jobScheduler(n):
     def inner(func):
         def wrapper(*args, **kwargs):
@@ -10,16 +13,23 @@ def jobScheduler(n):
         return wrapper
     return inner
 
+class testJobScheduler(unittest.TestCase):
 
-
-if __name__=='__main__':
-    import time
-
+    @staticmethod
     @jobScheduler(2000)
     def add(*args):
         print('func called')
         return sum(args)
 
-    tit = time.time()
-    add(5, 10, 2)
-    print('Ran function after %f seconds' %(time.time() - tit))
+    def testValue(self):
+        ans = self.add(5, 10, 2)
+        self.assertEqual(ans, 17)
+
+    def testFunc(self):
+        tit = time.time()
+        ans = self.add(5, 10, 8)
+        tat = time.time()
+        self.assertAlmostEqual(tat-tit, 2, places = 0)
+
+if __name__=='__main__':
+    unittest.main()
