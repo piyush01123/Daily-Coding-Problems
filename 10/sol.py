@@ -13,13 +13,13 @@ def jobScheduler(n):
 
 
 if __name__=='__main__':
+    import time
 
     @jobScheduler(2000)
     def add(*args):
         print('func called')
         return sum(args)
 
-    import time
     tit = time.time()
     add(5, 10, 2)
-    print('Ran after %f seconds' %(time.time() - tit))
+    print('Ran function after %f seconds' %(time.time() - tit))

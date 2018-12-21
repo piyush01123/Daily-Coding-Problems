@@ -14,3 +14,6 @@ class Solution:
             exc = max(old_inc, exc)
             # print(exc, inc)
         return max(exc, inc)
+
+if __name__=='__main__':
+    print(Solution().rob([5, 1, 1, 5]))
