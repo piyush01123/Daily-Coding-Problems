@@ -20,3 +20,9 @@ List of problems:
 13. Longest substring with at most K characters (Amazon) - Not solved
 14. Pi estimation using Monte Carlo method (Google)- Solved - Python
 15. Random element from large input stream (Facebook) - Not solved
+16. Order Log (Twitter) - Not solved
+17. Directory structure (Google) - Not solved
+18. Max of each Subarray (Google) - Not solved
+19. House paint problem (Facebook) - Not solved
+20. Intersecting Linked Lists (Google) - Solved - Python
+21. Classroom Scheduling problem (Snapchat) - Solved - Python
