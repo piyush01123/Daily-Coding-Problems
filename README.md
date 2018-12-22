@@ -27,3 +27,4 @@ Solved - Python
 19. House paint problem (Facebook) - Not solved
 20. Intersecting Linked Lists (Google) - Solved - Python
 21. Classroom Scheduling problem (Snapchat) - Solved - Python
+22. Word Break (Microsoft) - Solved - Python
