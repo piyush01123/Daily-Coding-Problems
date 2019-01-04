@@ -28,3 +28,16 @@ Solved - Python
 20. Intersecting Linked Lists (Google) - Solved - Python
 21. Classroom Scheduling problem (Snapchat) - Solved - Python
 22. Word Break (Microsoft) - Solved - Python
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
