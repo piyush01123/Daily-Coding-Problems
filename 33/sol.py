@@ -4,4 +4,4 @@ class runningList(list):
     def __init__(self):
         super().__init__()
     def insertNum(self, num):
-        self.apppend(num)
+        self.append(num)
