@@ -20,7 +20,7 @@ Solved - Python
 12. Number of ways to climb a staircase (Amazon) - Solved - Python
 13. Longest substring with at most K distinct characters (Amazon) - Unsolved
 14. Pi estimation using Monte Carlo method (Google) - Solved - Python
-15. Random element from large input stream (Facebook) - Unsolved
+15. Random element from large input stream (Facebook) - Solved - Python
 16. Order Log (Twitter) - Solved - Python
 17. Directory structure (Google) - Unsolved
 18. Max of each Subarray (Google) - Solved - Python
@@ -44,4 +44,4 @@ Solved - Python
 36. Second largest node in binary tree () - Solved - Python
 37. Power Set (Google) - Solved - Python
 
-Unsolved - 15, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34
+Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34
