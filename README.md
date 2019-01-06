@@ -16,7 +16,7 @@ Legend:
 9. Largest sum of non-adjacent numbers in array (Airbnb) -
 Solved - Python
 10. Job Scheduler (Apple) - Solved - Python
-11. Autocomplete system (Twitter) - Unsolved
+11. Autocomplete system (Twitter) - Solved - Python
 12. Number of ways to climb a staircase (Amazon) - Solved - Python
 13. Longest substring with at most K distinct characters (Amazon) - Unsolved
 14. Pi estimation using Monte Carlo method (Google) - Solved - Python
