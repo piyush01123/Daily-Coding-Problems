@@ -19,7 +19,8 @@ def rgbArrangeCheat(rgb_list):
 def rgbArrange(rgb_list):
     """
     Motivation: https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/
-    We first construct an idx_array which stores the desired indexes
+    We first construct an idx_array which stores the desired indexes and then
+    modify our original list as per this list of indexes using an algorithm
     """
     N = len(rgb_list)
     idx_array = [None for _ in range(N)]
