@@ -54,8 +54,8 @@ def is_valid(board):
         if diff == 0 or diff == current_queen_row - row:
             return False
     return True
-Let's try it out.
 
+# Let's try it out.
 for i in range(10):
     print(n_queens(i))
 1
