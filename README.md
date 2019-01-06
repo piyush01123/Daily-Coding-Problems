@@ -41,7 +41,8 @@ Solved - Python
 33. Running Median (Microsoft) - Unsolved
 34. Minimum insertion palindrome (Quora) - Unsolved
 35. Swap RGB array in-place (Google) - Solved - Python
-36. Second largest node in binary tree () - Solved - Python
+36. Second largest node in binary tree (Dropbox) - Solved - Python
 37. Power Set (Google) - Solved - Python
+38. Threatening Queens (Microsoft) _ Unsolved
 
-Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34
+Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 38
