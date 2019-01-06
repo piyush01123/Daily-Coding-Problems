@@ -32,14 +32,6 @@ class TreeNode:
         else:
             return self.left.countNodes() + self.right.countNodes() + 1
 
-    def deepestNode(self):
-        if self is not None and self.left is None and self.right is None:
-            return self
-        if self.left is None:
-            return self.right.deepestNode()
-        elif self.right is None:
-            return self.left.deepestNode()
-
     def deepestNodeWithDepth(self):
         if self is not None and self.left is None and self.right is None:
             return self, 1
@@ -47,7 +39,7 @@ class TreeNode:
             return self.increment_depth(deepestNodeWithDepth(self.right))
         if self.right is None:
             return self.increment_depth(deepestNodeWithDepth(self.left))
-        return self.increment_depth(max(deepestNodeWithDepth(self.left), deepestNodeWithDepth(self.right), key=lambda x: x[1]))
+        return self.increment_depth(maxdeepestNodeWithDepth(self.left), deepestNodeWithDepth(self.right), key=lambda x: x[1]))
 
     @staticmethod
     def increment_depth(node_depth_tuple):
