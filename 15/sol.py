@@ -2,6 +2,12 @@ import unittest
 import numpy as np
 
 class Stream(list):
+    """
+    Even though we are inheriting a list class, we are always keeping the list
+    empty. This is because the numbers are supposed to be huge. This could be slightly
+    modified to store the last m elements; in case maximum m numbers are storable.
+    This implementation will be similar to the Order Log example.
+    """
     def __new__(cls):
         return super().__new__(cls)
     def __init__(self):
@@ -11,8 +17,6 @@ class Stream(list):
         """
         Inserts a number and updates currentRandom with the old random number
         with probability (N-1)/N and new number with probability 1/N
-        Even though we are inheriting a list class, we are always keeping the list
-        empty. This is because the numbers are supposed to be huge.
         """
         self.length += 1
         N = self.length

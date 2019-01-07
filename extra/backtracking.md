@@ -28,7 +28,7 @@ Yes, we know a solution is complete if all N queens have been placed.
 
 Now that we are confident that we can use backtracking, let's apply it to this problem. We'll loop through the first row and try placing a queen in column 0..N, and then the second, and so on up until N. What differs here from brute force is that we'll be adding the queens incrementally instead of all at once.
 
-We'll create an is_valid function that will check the board on each incremental addition. is_valid will look at the last queen placed and see if any other queen can threaten it. If so, then we prune the branch since there's no point pursuing it. Otherwise, we'll recursively call ourselves with the new incremental solution. We only stop once we hit the base case: we've placed all queens on the board already.
+We'll create an `is_valid` function that will check the board on each incremental addition. `is_valid` will look at the last queen placed and see if any other queen can threaten it. If so, then we prune the branch since there's no point pursuing it. Otherwise, we'll recursively call ourselves with the new incremental solution. We only stop once we hit the base case: we've placed all queens on the board already.
 
 We can represent our board as just a 1D array of integers from 1..N, where the value at the index i that represents the column the queen on row i is on. Since we're working incrementally, we don't even need to have the whole board initialized. We can just append and pop as we go down the stack.
 
