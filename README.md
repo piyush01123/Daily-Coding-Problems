@@ -4,7 +4,7 @@
 My solutions for programming problems from <https://www.dailycodingproblem.com/>
 
 
-Legend:
+#### Legend:
 1. 2-Sum problem (Google) - Solved - Python, C++
 2. Product except self (Uber) - Solved - Python, C++
 3. Serialize and Deserialize Binary Trees (Google) - Solved - Python
@@ -43,6 +43,7 @@ Solved - Python
 35. Swap RGB array in-place (Google) - Solved - Python
 36. Second largest node in binary tree (Dropbox) - Solved - Python
 37. Power Set (Google) - Solved - Python
-38. Non-threatening Queens (Microsoft) _ Solved - Python
+38. Non-threatening Queens (Microsoft) - Solved - Python
+39. Conway's Game of Life (Dropbox) - Unsolved
 
-Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
