@@ -1,6 +1,6 @@
 
 def findNonDuplicated(A: list) -> int:
-    """O(N) space and O(N) time"""
+    """O(N) time and O(N) space"""
     H = dict()
     for a in A:
         if a not in H:
@@ -11,7 +11,7 @@ def findNonDuplicated(A: list) -> int:
     return H[1]
 
 def findNonDuplicatedSol_2(A: list) -> int:
-    """O(N) space and O(1) time"""
+    """O(N) time and O(1) space"""
     seenOnce, seenTwice = set(), set()
     for a in A:
         if a in seenOnce:
