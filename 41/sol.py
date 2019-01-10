@@ -1,6 +1,5 @@
 
-def flightItineray(flights: list) -> list:
-    startingPoint = flights[0][0]
+def flightItinerary(flights: list, startingPoint: str) -> list:
     H = {}
     for flight in flights:
         start, end = flight
@@ -9,18 +8,19 @@ def flightItineray(flights: list) -> list:
         else:
             H[start].append(end)
             H[start].sort()
-    iteneray = [startingPoint]
+    print('H = ', H)
+    itinerary = [startingPoint]
     while H:
-        start = iteneray[-1]
+        start = itinerary[-1]
         possibleEnds = H[start]
         end = possibleEnds.pop(0)
-        itinerary.append(chosenFlight[0])
+        itinerary.append(end)
         if not H[start]:
             del H[start]
-    return iteneray
+    return itinerary
 
 if __name__ =='__main__':
-    flights] = [('SFO', 'HKO'), ('YYZ', 'SFO'), ('YUL', 'YYZ'), ('HKO', 'ORD')]
-    print(flightItineray(flights))
+    flights = [('SFO', 'HKO'), ('YYZ', 'SFO'), ('YUL', 'YYZ'), ('HKO', 'ORD')]
+    print(flightItinerary(flights, 'YUL'))
     flights = [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')]
-    print(flightItineray(flights))
+    print(flightItinerary(flights, 'A'))
