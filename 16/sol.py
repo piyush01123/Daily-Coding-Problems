@@ -9,11 +9,15 @@ class OrderLog(list):
         self.append(order_id)
         self.length += 1
         if self.length > self.maxLength:
-            self = self[-self.maxLength:]
+            del self[0]
         print('current log = ', self)
     def get_last(self, i):
+        if i>self.maxLength:
+            raise Exception("This log can only store the last %i items" %self.maxLength)
         return self[-i]
 
 myLog = OrderLog(10)
-[myLog.record(l) for l in string.ascii_lowercase]
+for l in string.ascii_lowercase:
+    myLog.record(l)
+
 print(myLog.get_last(2), myLog.get_last(5), myLog.get_last(1))
