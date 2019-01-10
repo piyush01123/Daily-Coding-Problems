@@ -45,5 +45,7 @@ Solved - Python
 37. Power Set (Google) - Solved - Python
 38. Non-threatening Queens (Microsoft) - Solved - Python
 39. Conway's Game of Life (Dropbox) - Unsolved
+40. Non-duplicated item in array (Google) - Solved - Python
+41. Flight itinerary (Facebook) - Solved - Python
 
 ##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
