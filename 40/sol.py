@@ -10,6 +10,7 @@ def findNonDuplicated(A: list) -> int:
     H = {val:key for key, val in H.items()}
     return H[1]
 
+
 def findNonDuplicatedSol_2(A: list) -> int:
     """O(N) time and O(1) space"""
     seenOnce, seenTwice = set(), set()
