@@ -48,5 +48,8 @@ Solved - Python
 40. Non-duplicated item in array (Google) - Solved - Python
 41. Flight itinerary (Facebook) - Solved - Python
 42. K sum subset - Solved - Python
+43. Stack Implementation (Amazon)- Unsolved
+44. Count inversions (Google) - Solved - Python
+45. Random number generator (Two Sigma) - Solved - Python
 
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 43
