@@ -52,5 +52,6 @@ Solved - Python
 44. Count inversions (Google) - Solved - Python
 45. Random number generator (Two Sigma) - Solved - Python
 46. Longest palindromic substring (Amazon) - Solved - Python
+47. Maximum stock profit (Facebook) - Solved - Python
 
 ##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 43
