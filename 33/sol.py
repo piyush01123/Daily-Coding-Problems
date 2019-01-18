@@ -1,6 +1,7 @@
 import unittest
 
 class runningList(list):
+    # Brute force Implementation: O(N*log(N)) at each insert
     def __new__(cls):
         return super().__new__(cls)
     def __init__(self):
