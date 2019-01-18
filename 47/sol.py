@@ -1,6 +1,6 @@
 
 def maxProfit(A: list) -> int:
-    #Brute force
+    #Brute force O(N^2) solution
     n = len(A)
     max_profit = -10**3
     for i in range(n-1):
@@ -14,7 +14,7 @@ A = [9, 11, 8, 5, 7, 10]
 print('Brute Force Solution = ', maxProfit(A))
 
 def maxProfit(A: list) -> int:
-    #Two pointers
+    #Two pointers O(N) solution
     n = len(A)
     i = 0
     max_profits = list()

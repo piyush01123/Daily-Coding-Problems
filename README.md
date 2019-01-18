@@ -47,11 +47,14 @@ Solved - Python
 39. Conway's Game of Life (Dropbox) - Unsolved
 40. Non-duplicated item in array (Google) - Solved - Python
 41. Flight itinerary (Facebook) - Solved - Python
-42. K sum subset - Solved - Python
+42. K sum subset (Google) - Half Solved - Python
 43. Stack Implementation (Amazon)- Unsolved
 44. Count inversions (Google) - Solved - Python
 45. Random number generator (Two Sigma) - Solved - Python
 46. Longest palindromic substring (Amazon) - Solved - Python
 47. Maximum stock profit (Facebook) - Solved - Python
+48. Reconstruct binary tree given preorder and postorder traversals (Google) - Solved - Python
+49. Max Sum Subarray or Kadane's algorithm (Amazon) - Solved - Python
 
 ##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 43
+##### Half Solved - 42
