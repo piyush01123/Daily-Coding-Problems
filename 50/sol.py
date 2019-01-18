@@ -33,6 +33,7 @@ class Node:
         A = self.modInOrderTraversal()
         A = list(map(str, A))
         expression = ''.join(A)
+        print(expression)
         return eval(expression)
 
 if __name__=='__main__':
@@ -43,5 +44,8 @@ if __name__=='__main__':
     tree.left.right = Node(2)
     tree.right.left = Node(4)
     tree.right.right = Node(5)
+    # tree.right.right = Node('-')
+    # tree.right.right.left = Node(5)
+    # tree.right.right.right = Node(7)
     value = tree.evaluate()
     print(value)
