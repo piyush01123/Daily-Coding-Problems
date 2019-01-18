@@ -48,7 +48,7 @@ Solved - Python
 40. Non-duplicated item in array (Google) - Solved - Python
 41. Flight itinerary (Facebook) - Solved - Python
 42. K sum subset (Google) - Half Solved - Python
-43. Stack Implementation (Amazon)- Unsolved
+43. Stack Implementation (Amazon)- Solved - Python
 44. Count inversions (Google) - Solved - Python
 45. Random number generator (Two Sigma) - Solved - Python
 46. Longest palindromic substring (Amazon) - Solved - Python
@@ -57,5 +57,5 @@ Solved - Python
 49. Max Sum Subarray or Kadane's algorithm (Amazon) - Solved - Python
 50. Binary Tree Arithmetic (Microsoft) - Solved - Python
 
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 43
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
 ##### Half Solved - 42
