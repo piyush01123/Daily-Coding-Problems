@@ -59,3 +59,12 @@ Solved - Python
 51. Deck shuffling with swaps only (Facebook) - Solved - Python
 
 ##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
+##### Need better solution - 33
+##### Solve these first:
+- 34 using DP
+- 33 using max-heap and min-heap
+- 32 using DP
+- 31 using DP
+- 30 using DP
+- 27 using DP
+- 24 binary tree lock
