@@ -41,8 +41,6 @@ def findkSumSubset(S: list, k: int) -> list:
     S = sorted(S)
     N=len(S)
     A = [[None for _ in range(k+1)] for _ in range(len(S))]
-    for i in range(len(S)):
-        A[i][0] = True
     for j in range(k+1):
         A[0][j] = S[0]==j
     for i in range(len(S)):
