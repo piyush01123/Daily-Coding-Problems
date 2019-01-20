@@ -57,6 +57,7 @@ Solved - Python
 49. Max Sum Subarray or Kadane's algorithm (Amazon) - Solved - Python
 50. Binary Tree Arithmetic (Microsoft) - Solved - Python
 51. Deck shuffling with swaps only (Facebook) - Solved - Python
+52. Cache Implementation (Google) - Solved - Python
 
 ##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
 ##### Need better solution - 33
