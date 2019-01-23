@@ -58,8 +58,10 @@ Solved - Python
 50. Binary Tree Arithmetic (Microsoft) - Solved - Python
 51. Deck shuffling with swaps only (Facebook) - Solved - Python
 52. Cache Implementation (Google) - Solved - Python
+53. Queue Implementation (Apple) - Unsolved
+54. Sudoku solver (Dropbox) - Unsolved
 
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54
 ##### Need better solution - 33
 ##### Solve these first:
 - 34 using DP
