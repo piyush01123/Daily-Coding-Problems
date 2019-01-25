@@ -29,7 +29,7 @@ def num_primes_leq(num):
     return count
 
 # Sieve of Eratosthenes
-# @timer
+@timer
 def num_primes_leq_v2(num):
     count = 1
     primes = [2]
@@ -65,12 +65,12 @@ def graph_num_primes(N):
     plt.savefig('num_primes_leq_{}.jpg'.format(N))
 
 def main():
-    # check_timer()
+    check_timer()
     print('Answer = ', num_primes_leq(10**6))
     print('Answer = ', num_primes_leq_v2(10**6))
-    for N in range(1, 5):
-        print('N=', N)
-        graph_num_primes(10**N)
+    # for N in range(1, 5):
+    #     print('N=', N)
+    #     graph_num_primes(10**N)
 
 if __name__=='__main__':
     main()
