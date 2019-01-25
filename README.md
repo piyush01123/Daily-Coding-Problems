@@ -60,8 +60,9 @@ Solved - Python
 52. Cache Implementation (Google) - Solved - Python
 53. Queue Implementation (Apple) - Unsolved
 54. Sudoku solver (Dropbox) - Unsolved
+55. URL shortener (Microsoft) - Unsolved
 
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55
 ##### Need better solution - 33
 ##### Solve these first:
 - 34 using DP
