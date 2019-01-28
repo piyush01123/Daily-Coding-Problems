@@ -61,8 +61,12 @@ Solved - Python
 53. Queue Implementation (Apple) - Unsolved
 54. Sudoku solver (Dropbox) - Unsolved
 55. URL shortener (Microsoft) - Unsolved
+56. Graph Coloring (Google) - Unsolved
+57. String Break (Amazon) - Unsolved
+58. Rotated sorted array search - Solved - Python
+59. File Syncing between two computers - Unsolved
 
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55, 56, 57, 59
 ##### Need better solution - 33
 ##### Solve these first:
 - 34 using DP
