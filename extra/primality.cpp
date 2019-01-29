@@ -1,8 +1,5 @@
 #include <bits/stdc++.h>
 #include <iostream>
-// #include <string>
-// #include <sstream>
-// #include <iostream>
 
 using namespace std;
 
@@ -19,14 +16,14 @@ int main()
       {
         if (p*p>i)
         {
-          std::cout << i << " is prime" << '\n';
+          // std::cout << i << " is prime" << '\n';
           primes.push_back(i);
           count++;
           break;
         }
         if (i%p==0)
         {
-          std::cout << i << " has prime factor" << p << '\n';
+          // std::cout << i << " has prime factor" << p << '\n';
           break;
         }
       }
