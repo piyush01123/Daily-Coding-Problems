@@ -65,6 +65,8 @@ Solved - Python
 57. String Break (Amazon) - Unsolved
 58. Rotated sorted array search - Solved - Python
 59. File Syncing between two computers - Unsolved
+60. Equal Sum Partition (Facebook) - Solved - Python
+61. Integer exponentiation (Google) - Solved - Python
 
 ##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55, 56, 57, 59
 ##### Need better solution - 33
