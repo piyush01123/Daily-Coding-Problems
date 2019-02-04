@@ -67,8 +67,13 @@ Solved - Python
 59. File Syncing between two computers - Unsolved
 60. Equal Sum Partition (Facebook) - Solved - Python
 61. Integer exponentiation (Google) - Solved - Python
+62. Top-Left to Bottom-Right (Facebook) - Solved - Python
+63. Word Matrix (Microsoft) - Solved - Python
+64. Knight's Tour (Google) - Unsolved
+65. Spiral Matrix (Amazon) - Solved - Python
+66. Unbiased Toss (Square) - Solved - Python
 
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55, 56, 57, 59
+##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55, 56, 57, 59, 64
 ##### Need better solution - 33
 ##### Solve these first:
 - 34 using DP
