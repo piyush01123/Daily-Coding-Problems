@@ -48,8 +48,8 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 39 | [Conway's Game of Life](39) | Dropbox | Unsolved |  |
 | 40 | [Non-duplicated item in array](40) | Google | Solved | Python |
 | 41 | [Flight itinerary](41) | Facebook | Solved | Python |
-| 42 | [K sum subset](42) | Google | Solved | Python |
-| 43 | [Stack Implementation](43) | Amazon | Python |  |
+| 42 | [K sum subset](42) | Google | Solved |  |
+| 43 | [Stack Implementation](43) | Amazon | Solved | Python |
 | 44 | [Count inversions](44) | Google | Solved | Python |
 | 45 | [Random number generator](45) | Two Sigma | Solved | Python |
 | 46 | [Longest palindromic substring](46) | Amazon | Solved | Python |
