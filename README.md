@@ -74,3 +74,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 65 | [Spiral Matrix](65) | Amazon | Solved | Python |
 | 66 | [Unbiased Toss](66) | Square | Solved | Python |
 | 67 | [LFU Cache Implementation](67) | Google | Unsolved | |
+| 68 | [Attacking Bishops](68) | Google | Solved | Python |
