@@ -1,9 +1,10 @@
-### Daily Coding Problem
-
+## Daily Coding Problem
 
 My solutions for programming problems from <https://www.dailycodingproblem.com/>
 
+If you are looking to help out a fellow programmer, please head over to the [Issues Section](https://github.com/piyush-kgp/Daily-Coding-Problems/issues) and look for the label `help wanted`.
 
+#### Problem Legend
 | Problem ID | Problem        | Asked by           | Solved status  | Solved in |
 |:---:|:-------------:|:-------------:|-------------:|-------------:|
 | 1 | [2-Sum problem](1) | Google | Solved | Python, C++ |
