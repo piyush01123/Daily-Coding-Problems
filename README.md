@@ -4,81 +4,72 @@
 My solutions for programming problems from <https://www.dailycodingproblem.com/>
 
 
-#### Legend:
-1. 2-Sum problem (Google) - Solved - Python, C++
-2. Product except self (Uber) - Solved - Python, C++
-3. Serialize and Deserialize Binary Trees (Google) - Solved - Python
-4. First missing positive (Stripe) - Solved - Python, C++
-5. car, cdr, cons (Jane Street) - Solved - Python
-6. XOR Linked list (Google) - Solved - C++
-7. Number of ways to decode a message (Facebook) - Solved -  Python, C++
-8. Universal Value Tree Count (Google) - Solved - Python
-9. Largest sum of non-adjacent numbers in array (Airbnb) - Solved - Python
-10. Job Scheduler (Apple) - Solved - Python
-11. Autocomplete system (Twitter) - Solved - Python
-12. Number of ways to climb a staircase (Amazon) - Solved - Python
-13. Longest substring with at most K distinct characters (Amazon) - Unsolved
-14. Pi estimation using Monte Carlo method (Google) - Solved - Python
-15. Random element from large input stream (Facebook) - Solved - Python
-16. Order Log (Twitter) - Solved - Python
-17. Directory structure (Google) - Unsolved
-18. Max of each Subarray (Google) - Solved - Python
-19. House paint problem (Facebook) - Unsolved
-20. Intersecting Linked Lists (Google) - Solved - Python
-21. Classroom Scheduling problem (Snapchat) - Solved - Python
-22. Word Break (Microsoft) - Solved - Python
-23. Number of ways to go from A to B (Google) - Unsolved
-24. Binary Tree Locking (Google) - Unsolved
-25. Regular Expression Implementation (Facebook) - Unsolved
-26. Remove k<sup>th</sup> last element in linked list (Google) - Solved - Python
-27. Balanced brackets (Facebook) - Unsolved
-28. Justify text (Palantir) - Unsolved
-29. Run length encoding (Amazon) - Unsolved
-30. Elevation map (Facebook) - Unsolved
-31. Minimum edit distance between two strings (Google) - Unsolved
-32. Currency Exchange (Jane Street) - Unsolved
-33. Running Median (Microsoft) - Solved - Python
-34. Minimum insertion palindrome (Quora) - Unsolved
-35. Swap RGB array in-place (Google) - Solved - Python
-36. Second largest node in binary tree (Dropbox) - Solved - Python
-37. Power Set (Google) - Solved - Python
-38. Non-threatening Queens (Microsoft) - Solved - Python
-39. Conway's Game of Life (Dropbox) - Unsolved
-40. Non-duplicated item in array (Google) - Solved - Python
-41. Flight itinerary (Facebook) - Solved - Python
-42. K sum subset (Google) - Solved - Python
-43. Stack Implementation (Amazon)- Solved - Python
-44. Count inversions (Google) - Solved - Python
-45. Random number generator (Two Sigma) - Solved - Python
-46. Longest palindromic substring (Amazon) - Solved - Python
-47. Maximum stock profit (Facebook) - Solved - Python
-48. Reconstruct binary tree given preorder and postorder traversals (Google) - Solved - Python
-49. Max Sum Subarray or Kadane's algorithm (Amazon) - Solved - Python
-50. Binary Tree Arithmetic (Microsoft) - Solved - Python
-51. Deck shuffling with swaps only (Facebook) - Solved - Python
-52. Cache Implementation (Google) - Solved - Python
-53. Queue Implementation (Apple) - Unsolved
-54. Sudoku solver (Dropbox) - Unsolved
-55. URL shortener (Microsoft) - Unsolved
-56. Graph Coloring (Google) - Unsolved
-57. String Break (Amazon) - Unsolved
-58. Rotated sorted array search (Amazon) - Solved - Python
-59. File Syncing between two computers (Google) - Unsolved
-60. Equal Sum Partition (Facebook) - Solved - Python
-61. Integer exponentiation (Google) - Solved - Python
-62. Top-Left to Bottom-Right (Facebook) - Solved - Python
-63. Word Matrix (Microsoft) - Solved - Python
-64. Knight's Tour (Google) - Unsolved
-65. Spiral Matrix (Amazon) - Solved - Python
-66. Unbiased Toss (Square) - Solved - Python
-
-##### Unsolved - 13, 17, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 39, 53, 54, 55, 56, 57, 59, 64
-##### Need better solution - 33
-##### Solve these first:
-- 34 using DP
-- 33 using max-heap and min-heap
-- 32 using DP
-- 31 using DP
-- 30 using DP
-- 27 using DP
-- 24 binary tree lock
+| Problem ID | Problem        | Asked by           | Solved status  | Solved in |
+|:---:|:-------------:|:-------------:|-------------:|-------------:|
+| 1 | [2-Sum problem](1) | Google | Solved | Python, C++ |
+| 2 | [Product except self](2) | Uber | Solved | Python, C++ |
+| 3 | [Serialize and Deserialize Binary Trees](3) | Google | Solved | Python |
+| 4 | [First missing positive](4) | Stripe | Solved | Python, C++ |
+| 5 | [car, cdr, cons](5) | Jane Street | Solved | Python |
+| 6 | [XOR Linked list](6) | Google | Solved | C++ |
+| 7 | [Number of ways to decode a message](7) | Facebook | Solved |  Python, C++ |
+| 8 | [Universal Value Tree Count](8) | Google | Solved | Python |
+| 9 | [Largest sum of non-adjacent numbers in array](9) | Airbnb | Solved | Python |
+| 10 | [ Job Scheduler](10) | Apple | Solved | Python |
+| 11 | [Autocomplete system](11) | Twitter | Solved | Python |
+| 12 | [Number of ways to climb a staircase](12) | Amazon | Solved | Python |
+| 13 | [Longest substring with at most K distinct characters](13) | Amazon | Unsolved |  |
+| 14 | [Pi estimation using Monte Carlo method](14) | Google | Solved | Python |
+| 15 | [Random element from large input stream](15) | Facebook | Solved | Python |
+| 16 | [Order Log](16) | Twitter | Solved | Python |
+| 17 | [Directory structure](17) | Google | Unsolved |  |
+| 18 | [Max of each Subarray](18) | Google | Solved | Python |
+| 19 | [House paint problem](19) | Facebook | Unsolved |  |
+| 20 | [Intersecting Linked Lists](20) | Google | Solved | Python |
+| 21 | [Classroom Scheduling problem](21) | Snapchat | Solved | Python |
+| 22 | [Word Break](22) | Microsoft | Solved | Python |
+| 23 | [Number of ways to go from A to B](23) | Google | Unsolved |  |
+| 24 | [Binary Tree Locking](24) | Google | Unsolved |  |
+| 25 | [Regular Expression Implementation](25) | Facebook | Unsolved |  |
+| 26 | [Remove k<sup>th</sup> last element in linked list](26) | Google | Solved | Python |
+| 27 | [Balanced brackets](27) | Facebook | Unsolved |  |
+| 28 | [Justify text](28) | Palantir | Unsolved |  |
+| 29 | [Run length encoding](29) | Amazon | Unsolved |  |
+| 30 | [Elevation map](30) | Facebook | Unsolved |  |
+| 31 | [Minimum edit distance between two strings](31) | Google | Unsolved |  |
+| 32 | [Currency Exchange](32) | Jane Street | Unsolved |  |
+| 33 | [Running Median](33) | Microsoft | Solved | Python |
+| 34 | [Minimum insertion palindrome](34) | Quora | Unsolved |  |
+| 35 | [Swap RGB array in-place](35) | Google | Solved | Python |
+| 36 | [Second largest node in binary tree](36) | Dropbox | Solved | Python |
+| 37 | [Power Set](37) | Google | Solved | Python |
+| 38 | [Non-threatening Queens](38) | Microsoft | Solved | Python |
+| 39 | [Conway's Game of Life](39) | Dropbox | Unsolved |  |
+| 40 | [Non-duplicated item in array](40) | Google | Solved | Python |
+| 41 | [Flight itinerary](41) | Facebook | Solved | Python |
+| 42 | [K sum subset](42) | Google | Solved | Python |
+| 43 | [Stack Implementation](43) | Amazon | Python |  |
+| 44 | [Count inversions](44) | Google | Solved | Python |
+| 45 | [Random number generator](45) | Two Sigma | Solved | Python |
+| 46 | [Longest palindromic substring](46) | Amazon | Solved | Python |
+| 47 | [Maximum stock profit](47) | Facebook | Solved | Python |
+| 48 | [Reconstruct binary tree given preorder and postorder traversals](48) | Google | Solved | Python |
+| 49 | [Max Sum Subarray or Kadane's algorithm](49) | Amazon | Solved | Python |
+| 50 | [Binary Tree Arithmetic](50) | Microsoft | Solved | Python |
+| 51 | [Deck shuffling with swaps only](51) | Facebook | Solved | Python |
+| 52 | [LRU Cache Implementation](52) | Google | Solved | Python |
+| 53 | [Queue Implementation](53) | Apple | Unsolved |  |
+| 54 | [Sudoku solver](54) | Dropbox | Unsolved |  |
+| 55 | [URL shortener](55) | Microsoft | Unsolved |  |
+| 56 | [Graph Coloring](56) | Google | Unsolved |  |
+| 57 | [String Break](57) | Amazon | Unsolved |  |
+| 58 | [Rotated sorted array search](58) | Amazon | Solved | Python |
+| 59 | [File Syncing between two computers](59) | Google | Unsolved |  |
+| 60 | [Equal Sum Partition](60) | Facebook | Solved | Python |
+| 61 | [Integer exponentiation](61) | Google | Solved | Python |
+| 62 | [Top-Left to Bottom-Right](62) | Facebook | Solved | Python |
+| 63 | [Word Matrix](63) | Microsoft | Solved | Python |
+| 64 | [Knight's Tour](64) | Google | Unsolved |  |
+| 65 | [Spiral Matrix](65) | Amazon | Solved | Python |
+| 66 | [Unbiased Toss](66) | Square | Solved | Python |
+| 67 | [LFU Cache Implementation](67) | Google | Unsolved | |
