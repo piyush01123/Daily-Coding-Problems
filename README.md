@@ -13,8 +13,7 @@ My solutions for programming problems from <https://www.dailycodingproblem.com/>
 6. XOR Linked list (Google) - Solved - C++
 7. Number of ways to decode a message (Facebook) - Solved -  Python, C++
 8. Universal Value Tree Count (Google) - Solved - Python
-9. Largest sum of non-adjacent numbers in array (Airbnb) -
-Solved - Python
+9. Largest sum of non-adjacent numbers in array (Airbnb) - Solved - Python
 10. Job Scheduler (Apple) - Solved - Python
 11. Autocomplete system (Twitter) - Solved - Python
 12. Number of ways to climb a staircase (Amazon) - Solved - Python
@@ -63,8 +62,8 @@ Solved - Python
 55. URL shortener (Microsoft) - Unsolved
 56. Graph Coloring (Google) - Unsolved
 57. String Break (Amazon) - Unsolved
-58. Rotated sorted array search - Solved - Python
-59. File Syncing between two computers - Unsolved
+58. Rotated sorted array search (Amazon) - Solved - Python
+59. File Syncing between two computers (Google) - Unsolved
 60. Equal Sum Partition (Facebook) - Solved - Python
 61. Integer exponentiation (Google) - Solved - Python
 62. Top-Left to Bottom-Right (Facebook) - Solved - Python
