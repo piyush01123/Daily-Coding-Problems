@@ -75,3 +75,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 66 | [Unbiased Toss](66) | Square | Solved | Python |
 | 67 | [LFU Cache Implementation](67) | Google | Unsolved | |
 | 68 | [Attacking Bishops](68) | Google | Solved | Python |
+| 69 | [Max triplet product](69) | Facebook | Solved | Python |
