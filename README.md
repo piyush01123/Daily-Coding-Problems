@@ -76,3 +76,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 67 | [LFU Cache Implementation](67) | Google | Unsolved | |
 | 68 | [Attacking Bishops](68) | Google | Solved | Python |
 | 69 | [Max triplet product](69) | Facebook | Solved | Python |
+| 70 | [Perfect Numbers](70) | Microsoft | Solved | Python |
