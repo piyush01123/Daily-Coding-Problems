@@ -77,3 +77,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 68 | [Attacking Bishops](68) | Google | Solved | Python |
 | 69 | [Max triplet product](69) | Facebook | Solved | Python |
 | 70 | [Perfect Numbers](70) | Microsoft | Solved | Python |
+| 71 | [Another Random Number Generator](71) | Microsoft | Solved | Python |
