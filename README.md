@@ -78,3 +78,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 69 | [Max triplet product](69) | Facebook | Solved | Python |
 | 70 | [Perfect Numbers](70) | Microsoft | Solved | Python |
 | 71 | [Another Random Number Generator](71) | Microsoft | Solved | Python |
+| 72 | [Largest Value Path in a Directed Graph](71) | Google | Unsolved |  |
+| 73 | [Reverse Linked List in-place](73) | Google | Solved | Python |
