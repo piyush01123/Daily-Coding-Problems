@@ -80,3 +80,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 71 | [Another Random Number Generator](71) | Microsoft | Solved | Python |
 | 72 | [Largest Value Path in a Directed Graph](71) | Google | Unsolved |  |
 | 73 | [Reverse Linked List in-place](73) | Google | Solved | Python |
+| 74 | [Count occurrences in multiplication table](74) | Apple | Solved | Python |
