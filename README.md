@@ -82,3 +82,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 73 | [Reverse Linked List in-place](73) | Google | Solved | Python |
 | 74 | [Count occurrences in multiplication table](74) | Apple | Solved | Python |
 | 75 | [Largest increasing subsequence](75) | Microsoft | Solved | Python |
+| 76 | [Lexicographic matrix sort](76) | Google | Solved | Python |
