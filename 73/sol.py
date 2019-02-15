@@ -39,6 +39,43 @@ def reverseLinkedList(ll: ListNode) -> ListNode:
         curr = curr.prev
     return ll_rev
 
+
+
+
+def reverseLL(head: 'ListNode') -> 'ListNode':
+    # Much cleanerc
+    if head is None or head.next is None:
+        return head
+    curr = head
+    next = curr.next
+    prev = None
+    while curr.next is not None:
+        next = curr.next
+        curr.next = prev
+        prev  = curr
+        curr = next
+    curr.next = prev
+    return curr
+
+
+def test_cleaner_code():
+    print('New cleaner code')
+    class ListNode:
+        def __init__(self, val=None):
+            self.val = val
+            self.next = None
+    curr = ll = ListNode('*')
+    for i in range(1, 10, 2):
+        curr.next = ListNode(i)
+        curr = curr.next
+    ll = ll.next
+    ll_rev = reverseLL(ll)
+    curr = ll_rev
+    while curr is not None:
+        print(curr.val)
+        curr = curr.next
+
+
 if __name__=='__main__':
     ll = ListNode('*')
     # curr = ll
@@ -52,3 +89,4 @@ if __name__=='__main__':
     # lld = createDoublyLinkedList(ll)
     ll_rev = reverseLinkedList(ll)
     ll_rev.printLinkedList()
+    test_cleaner_code()
