@@ -5,6 +5,16 @@ class ListNode:
     def __init__(self, val):
         self.val = val
         self.next = None
+    def __str__(self):
+        curr = self
+        string = ''
+        while curr is not None:
+            if curr.next is not None:
+                string+='{}-->'.format(curr.val)
+            else:
+                string+='{}-->NULL'.format(curr.val)
+            curr = curr.next
+        return string
 
 def mergeSortedLists(lsts: 'list(ListNode)') -> ListNode:
     if lsts is None or len(lsts)==0:
@@ -28,10 +38,7 @@ def main():
     lst2=ListNode(1); lst2.next=ListNode(3); lst2.next.next=ListNode(4)
     lst3=ListNode(2); lst3.next=ListNode(6);
     lst4=mergeSortedLists(lsts=[lst1, lst2, lst3])
-    curr=lst4
-    while curr is not None:
-        print(curr.val)
-        curr=curr.next
+    print(lst4)
 
 if __name__=='__main__':
     main()
