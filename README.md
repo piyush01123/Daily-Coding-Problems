@@ -85,3 +85,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 76 | [Lexicographic matrix sort](76) | Google | Solved | Python |
 | 77 | [Merge overlapping intervals](77) | Snapchat | Solved | Python |
 | 78 | [Merge sorted linked lists](78) | Google | Solved | Python |
+| 79 | [Modifiabale non-decreasing array](70) | Facebook | Solved | Python |
