@@ -84,3 +84,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 75 | [Largest increasing subsequence](75) | Microsoft | Solved | Python |
 | 76 | [Lexicographic matrix sort](76) | Google | Solved | Python |
 | 77 | [Merge overlapping intervals](77) | Snapchat | Solved | Python |
+| 78 | [Merge sorted linked lists](78) | Google | Solved | Python |
