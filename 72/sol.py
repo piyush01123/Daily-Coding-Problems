@@ -72,6 +72,7 @@ def detected_cycle(graph):
 #
 #
 # def find_all_paths_sd(graph, s, d):
+#     # Finds all paths between s and d by DFS. Uses Adjancency List
 #     print('S=', s, 'D=', d)
 #     visited = [False for _ in range(graph.num_vertices)]
 #     all_paths_sd = find_path_util(graph, visited, s, d, path=[])
@@ -80,6 +81,7 @@ def detected_cycle(graph):
 
 
 def find_all_paths_sd(g, src, dest):
+    # Finds all paths between s and d by BFS. Uses Adjancency Matrix
     path = [src]
     queue = [path]
     paths = []
@@ -99,20 +101,19 @@ def find_all_paths_sd(g, src, dest):
 
 
 def list_all_paths(graph):
-    paths = []
+    all_paths = []
     for s, d in itertools.permutations(range(graph.num_vertices), 2):
         found_paths = find_all_paths_sd(graph.adj_matrix, s, d)
         print('S D PATHS', s, d, found_paths)
-        for path in found_paths:
-            paths.append(path)
-    return paths
+        all_paths.extend(found_paths)
+    return all_paths
 
 
 def maxValue(graph: 'Graph') -> int:
     if detected_cycle(graph) == True:
         print('Cycle Detected')
         return None
-    print('NO CYCLES')
+    print('No Cycle Detected')
     all_paths = list_all_paths(graph)
     max_val = 0
     for path in all_paths:
@@ -120,22 +121,24 @@ def maxValue(graph: 'Graph') -> int:
         path_val_freq = defaultdict(int)
         for val in path_vals:
             path_val_freq[val]+=1
+        print('path=%s, path_vals=%s, path_val_freq=%s' %(path, path_vals, path_val_freq))
         max_val = max(max_val, max(path_val_freq.values()))
     return max_val
 
 
 def main():
-    node_vals = 'ABACA'
     edges = [(0, 1),
              (0, 2),
              (2, 3),
-             (3, 4),
-             (0, 3)]
+             (3, 4)]
     graph = Graph('ABACA')
     for u, v in edges:
         graph.add_edge(u, v)
     print('Answer=', maxValue(graph))
 
+    graph = Graph('A')
+    graph.add_edge(0, 0)
+    print('Answer=', maxValue(graph))
 
 if __name__=='__main__':
     main()
