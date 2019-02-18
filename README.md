@@ -87,3 +87,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 78 | [Merge sorted linked lists](78) | Google | Solved | Python |
 | 79 | [Modifiabale non-decreasing array](79) | Facebook | Solved | Python |
 | 80 | [Deepest Node in Binary Tree](80) | Google | Solved | Python |
+| 81 | [Letter Combinations from Dictionary](81) | Yelp | Solved | Python |
