@@ -48,7 +48,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 39 | [Conway's Game of Life](39) | Dropbox | Unsolved |  |
 | 40 | [Non-duplicated item in array](40) | Google | Solved | Python |
 | 41 | [Flight itinerary](41) | Facebook | Solved | Python |
-| 42 | [K sum subset](42) | Google | Solved |  |
+| 42 | [K sum subset](42) | Google | Solved | Python |
 | 43 | [Stack Implementation](43) | Amazon | Solved | Python |
 | 44 | [Count inversions](44) | Google | Solved | Python |
 | 45 | [Random number generator](45) | Two Sigma | Solved | Python |
@@ -89,3 +89,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 80 | [Deepest Node in Binary Tree](80) | Google | Solved | Python |
 | 81 | [Letter Combinations from Dictionary](81) | Yelp | Solved | Python |
 | 82 | [Implementation of readN(n) using read7](82) | Microsoft | Solved | Python |
+| 83 | [Reverse Binary Tree](83) | Google | Solved | Python |
