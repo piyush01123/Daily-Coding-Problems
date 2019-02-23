@@ -90,3 +90,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 81 | [Letter Combinations from Dictionary](81) | Yelp | Solved | Python |
 | 82 | [Implementation of readN(n) using read7](82) | Microsoft | Solved | Python |
 | 83 | [Reverse Binary Tree](83) | Google | Solved | Python |
+| 84 | [Island Count](84) | Amazon | Unsolved | |
+| 85 | [X or Y](85) | Facebook | Solved | Python |
