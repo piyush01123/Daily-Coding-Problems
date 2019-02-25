@@ -73,7 +73,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 64 | [Knight's Tour](64) | Google | Unsolved |  |
 | 65 | [Spiral Matrix](65) | Amazon | Solved | Python |
 | 66 | [Unbiased Toss](66) | Square | Solved | Python |
-| 67 | [LFU Cache Implementation](67) | Google | Unsolved | |
+| 67 | [LFU Cache Implementation](67) | Google | Solved | Python |
 | 68 | [Attacking Bishops](68) | Google | Solved | Python |
 | 69 | [Max triplet product](69) | Facebook | Solved | Python |
 | 70 | [Perfect Numbers](70) | Microsoft | Solved | Python |
