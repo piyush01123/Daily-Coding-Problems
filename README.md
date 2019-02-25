@@ -61,7 +61,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 52 | [LRU Cache Implementation](52) | Google | Solved | Python |
 | 53 | [Queue Implementation](53) | Apple | Unsolved |  |
 | 54 | [Sudoku solver](54) | Dropbox | Unsolved |  |
-| 55 | [URL shortener](55) | Microsoft | Unsolved |  |
+| 55 | [URL shortener](55) | Microsoft | Solved | Python |
 | 56 | [Graph Coloring](56) | Google | Unsolved |  |
 | 57 | [String Break](57) | Amazon | Unsolved |  |
 | 58 | [Rotated sorted array search](58) | Amazon | Solved | Python |
