@@ -94,3 +94,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 85 | [X or Y](85) | Facebook | Solved | Python |
 | 86 | [Min parantheses removal](86) | Google | Solved | Python |
 | 87 | [Validate Map](87) | Uber | Solved | Python |
+| 88 | [Integer division](88) | ContextLogic | Solved | Python |
