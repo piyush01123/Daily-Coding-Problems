@@ -4,7 +4,7 @@ ALLOWED_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
 class URLShortener:
     def __init__(self):
         self.url_store = {}
-        self.urls_shortened = 0
+        self.urls_shortened = 1000000000 #assume 1000000000 URLs have been already registered
 
     def shorten(self, url):
         self.urls_shortened+=1
