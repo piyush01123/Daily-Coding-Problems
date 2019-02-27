@@ -95,3 +95,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 86 | [Min parantheses removal](86) | Google | Solved | Python |
 | 87 | [Validate Map](87) | Uber | Solved | Python |
 | 88 | [Integer division](88) | ContextLogic | Solved | Python |
+| 89 | [Valid BST](88) | LinkedIn | Solved | Python |
