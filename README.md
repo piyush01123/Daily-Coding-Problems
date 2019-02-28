@@ -30,7 +30,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 21 | [Classroom Scheduling problem](021) | Snapchat | Solved | Python |
 | 22 | [Word Break](022) | Microsoft | Solved | Python |
 | 23 | [Number of ways to go from A to B](023) | Google | Unsolved |  |
-| 24 | [Binary Tree Locking](024) | Google | Unsolved |  |
+| 24 | [Binary Tree Locking](024) | Google | Solved | Python |
 | 25 | [Regular Expression Implementation](025) | Facebook | Unsolved |  |
 | 26 | [Remove k<sup>th</sup> last element in linked list](026) | Google | Solved | Python |
 | 27 | [Balanced brackets](027) | Facebook | Unsolved |  |
