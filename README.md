@@ -78,7 +78,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 69 | [Max triplet product](069) | Facebook | Solved | Python |
 | 70 | [Perfect Numbers](070) | Microsoft | Solved | Python |
 | 71 | [Another Random Number Generator](071) | Microsoft | Solved | Python |
-| 72 | [Largest Value Path in a Directed Graph](071) | Google | Solved | Python |
+| 72 | [Largest Value Path in a Directed Graph](072) | Google | Solved | Python |
 | 73 | [Reverse Linked List in-place](073) | Google | Solved | Python |
 | 74 | [Count occurrences in multiplication table](074) | Apple | Solved | Python |
 | 75 | [Largest increasing subsequence](075) | Microsoft | Solved | Python |
@@ -97,3 +97,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 88 | [Integer division](088) | ContextLogic | Solved | Python |
 | 89 | [Valid BST](089) | LinkedIn | Solved | Python |
 | 90 | [Random number generator with exception rule](090) | Google | Solved | Python |
+| 91 | [Function correction](091) | Dropbox | Solved | Python |
