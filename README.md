@@ -7,7 +7,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 #### Problem Legend
 | Problem ID | Problem        | Asked by           | Solved status  | Solved in |
 |:---:|:-------------:|:-------------:|-------------:|-------------:|
-| 1 | [2-Sum problem](001) | Google | Solved | Python, C++ |
+| 1 | [2-Sum problem](001) | Google | Solved | Python, C++, Java |
 | 2 | [Product except self](002) | Uber | Solved | Python, C++ |
 | 3 | [Serialize and Deserialize Binary Trees](003) | Google | Solved | Python |
 | 4 | [First missing positive](004) | Stripe | Solved | Python, C++ |
