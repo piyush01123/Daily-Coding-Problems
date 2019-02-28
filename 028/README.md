@@ -15,3 +15,17 @@ For example, given the list of words `["the", "quick", "brown", "fox", "jumps", 
 "fox  jumps  over", # 2 extra spaces distributed evenly
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 ```
+
+Our solution achieves this brilliantly:
+For k=16,
+```
+the  quick brown
+fox  jumps  over
+the   lazy   dog
+```
+
+For k=25,
+```
+the   quick   brown   fox
+jumps  over  the lazy dog
+```
