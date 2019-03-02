@@ -70,7 +70,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 61 | [Integer exponentiation](061) | Google | Solved | Python |
 | 62 | [Top-Left to Bottom-Right](062) | Facebook | Solved | Python |
 | 63 | [Word Matrix](063) | Microsoft | Solved | Python |
-| 64 | [Knight's Tour](064) | Google | Unsolved |  |
+| 64 | [Knight's Tour](064) | Google | Solved | Python |
 | 65 | [Spiral Matrix](065) | Amazon | Solved | Python |
 | 66 | [Unbiased Toss](066) | Square | Solved | Python |
 | 67 | [LFU Cache Implementation](067) | Google | Solved | Python |
