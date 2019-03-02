@@ -98,3 +98,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 89 | [Valid BST](089) | LinkedIn | Solved | Python |
 | 90 | [Random number generator with exception rule](090) | Google | Solved | Python |
 | 91 | [Function correction](091) | Dropbox | Solved | Python |
+| 92 | [Valid Course Ordering](092) | Airbnb | Solved | Python |
