@@ -35,7 +35,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 26 | [Remove k<sup>th</sup> last element in linked list](026) | Google | Solved | Python |
 | 27 | [Balanced brackets](027) | Facebook | Unsolved |  |
 | 28 | [Justify text](028) | Palantir | Solved | Python |
-| 29 | [Run length encoding](029) | Amazon | Unsolved |  |
+| 29 | [Run length encoding](029) | Amazon | Solved | Python |
 | 30 | [Elevation map](030) | Facebook | Unsolved |  |
 | 31 | [Minimum edit distance between two strings](031) | Google | Unsolved |  |
 | 32 | [Currency Exchange](032) | Jane Street | Unsolved |  |
