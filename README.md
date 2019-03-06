@@ -1,4 +1,4 @@
-## Daily Coding Problem
+print(d.get## Daily Coding Problem
 
 My solutions for programming problems from <https://www.dailycodingproblem.com/>
 
@@ -101,3 +101,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 92 | [Valid Course Ordering](092) | Airbnb | Solved | Python |
 | 93 | [Largest BST Size](093) | Apple | Solved | Python |
 | 94 | [Tree Maximum Path Sum between 2 Leaves](094) | Google | Solved | Python |
+| 95 | [Next greater permutation](095) | Palantir | Solved | Python |
+| 96 | [All permutations](096) | Microsoft | Solved | Python |
