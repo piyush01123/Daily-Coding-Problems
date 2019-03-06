@@ -103,3 +103,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 94 | [Tree Maximum Path Sum between 2 Leaves](094) | Google | Solved | Python |
 | 95 | [Next greater permutation](095) | Palantir | Solved | Python |
 | 96 | [All permutations](096) | Microsoft | Solved | Python |
+| 97 | [Time-based Map](097) | Stripe | Solved | Python |
