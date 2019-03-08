@@ -104,3 +104,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 95 | [Next greater permutation](095) | Palantir | Solved | Python |
 | 96 | [All permutations](096) | Microsoft | Solved | Python |
 | 97 | [Time-based Map](097) | Stripe | Solved | Python |
+| 98 | [Find Word in Grid](098) | Coursera | Solved | Python |
