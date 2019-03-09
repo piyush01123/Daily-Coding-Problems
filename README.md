@@ -105,3 +105,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 96 | [All permutations](096) | Microsoft | Solved | Python |
 | 97 | [Time-based Map](097) | Stripe | Solved | Python |
 | 98 | [Find Word in Grid](098) | Coursera | Solved | Python |
+| 99 | [Longest Continuous Sequence](099) | Microsoft | Solved | Python |
