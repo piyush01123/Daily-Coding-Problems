@@ -63,7 +63,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 54 | [Sudoku solver](054) | Dropbox | Unsolved |  |
 | 55 | [URL shortener](055) | Microsoft | Solved | Python |
 | 56 | [Graph Coloring](056) | Google | Unsolved |  |
-| 57 | [String Break](057) | Amazon | Unsolved |  |
+| 57 | [String Break](057) | Amazon | Solved | Python |
 | 58 | [Rotated sorted array search](058) | Amazon | Solved | Python |
 | 59 | [File Syncing between two computers](059) | Google | Unsolved |  |
 | 60 | [Equal Sum Partition](060) | Facebook | Solved | Python |
