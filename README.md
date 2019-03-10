@@ -1,4 +1,4 @@
-print(d.get## Daily Coding Problem
+## Daily Coding Problem
 
 My solutions for programming problems from <https://www.dailycodingproblem.com/>
 
@@ -107,3 +107,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 98 | [Find Word in Grid](098) | Coursera | Solved | Python |
 | 99 | [Longest Continuous Sequence](099) | Microsoft | Solved | Python |
 | 100 | [Minimum Step Move](100) | Google | Solved | Python |
+| 101 | [Goldbach conjecture](101) | Alibaba | Solved | Python |
