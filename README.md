@@ -62,7 +62,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 53 | [Queue Implementation](053) | Apple | Solved | Python |
 | 54 | [Sudoku solver](054) | Dropbox | Solved | Python |
 | 55 | [URL shortener](055) | Microsoft | Solved | Python |
-| 56 | [Graph Coloring](056) | Google | Unsolved |  |
+| 56 | [Graph Coloring](056) | Google | Solved | Python |
 | 57 | [String Break](057) | Amazon | Solved | Python |
 | 58 | [Rotated sorted array search](058) | Amazon | Solved | Python |
 | 59 | [File Syncing between two computers](059) | Google | Unsolved |  |
