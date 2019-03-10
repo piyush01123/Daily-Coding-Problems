@@ -60,7 +60,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 51 | [Deck shuffling with swaps only](051) | Facebook | Solved | Python |
 | 52 | [LRU Cache Implementation](052) | Google | Solved | Python |
 | 53 | [Queue Implementation](053) | Apple | Solved | Python |
-| 54 | [Sudoku solver](054) | Dropbox | Unsolved |  |
+| 54 | [Sudoku solver](054) | Dropbox | Solved | Python |
 | 55 | [URL shortener](055) | Microsoft | Solved | Python |
 | 56 | [Graph Coloring](056) | Google | Unsolved |  |
 | 57 | [String Break](057) | Amazon | Solved | Python |
