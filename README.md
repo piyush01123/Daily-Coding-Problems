@@ -108,3 +108,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 99 | [Longest Continuous Sequence](099) | Microsoft | Solved | Python |
 | 100 | [Minimum Step Move](100) | Google | Solved | Python |
 | 101 | [Goldbach conjecture](101) | Alibaba | Solved | Python |
+| 102 | [Continuous subarray sum equals K](102) | Lyft | Solved | Python |
