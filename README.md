@@ -19,7 +19,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 10 | [ Job Scheduler](010) | Apple | Solved | Python |
 | 11 | [Autocomplete system](011) | Twitter | Solved | Python |
 | 12 | [Number of ways to climb a staircase](012) | Amazon | Solved | Python |
-| 13 | [Longest substring with at most K distinct characters](013) | Amazon | Unsolved |  |
+| 13 | [Longest substring with at most K distinct characters](013) | Amazon | Solved | Python |
 | 14 | [Pi estimation using Monte Carlo method](014) | Google | Solved | Python |
 | 15 | [Random element from large input stream](015) | Facebook | Solved | Python |
 | 16 | [Order Log](016) | Twitter | Solved | Python |
