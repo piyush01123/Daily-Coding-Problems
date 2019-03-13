@@ -23,7 +23,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 14 | [Pi estimation using Monte Carlo method](014) | Google | Solved | Python |
 | 15 | [Random element from large input stream](015) | Facebook | Solved | Python |
 | 16 | [Order Log](016) | Twitter | Solved | Python |
-| 17 | [Directory structure](017) | Google | Solved | Python |
+| 17 | [Longest absolute path in file structure](017) | Google | Solved | Python |
 | 18 | [Max of each Subarray](018) | Google | Solved | Python |
 | 19 | [House paint problem](019) | Facebook | Unsolved |  |
 | 20 | [Intersecting Linked Lists](020) | Google | Solved | Python |
