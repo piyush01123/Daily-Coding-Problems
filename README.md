@@ -36,7 +36,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 27 | [Balanced brackets](027) | Facebook | Unsolved |  |
 | 28 | [Justify text](028) | Palantir | Solved | Python |
 | 29 | [Run length encoding](029) | Amazon | Solved | Python |
-| 30 | [Elevation map](030) | Facebook | Unsolved |  |
+| 30 | [Elevation map](030) | Facebook | Solved | Python |
 | 31 | [Minimum edit distance between two strings](031) | Google | Unsolved |  |
 | 32 | [Currency Exchange](032) | Jane Street | Unsolved |  |
 | 33 | [Running Median](033) | Microsoft | Solved | Python |
