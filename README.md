@@ -111,3 +111,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 102 | [Continuous subarray sum equals K](102) | Lyft | Solved | Python |
 | 103 | [Shortest substring containing given characters](103) | Square | Solved | Python |
 | 104 | [Palindrome Linked List](104) | Google | Solved | Python |
+| 105 | [Function Debounce](105) | Facebook | Solved | Python |

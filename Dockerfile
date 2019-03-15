@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-COPY . /DCP
+
 RUN echo "*** Installing gcc (4.9->8) and clang (3.8->6) ***" \
   && DEBIAN_FRONTEND=noninteractive apt-get update \
   && apt-get dist-upgrade -y \
