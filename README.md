@@ -112,3 +112,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 103 | [Shortest substring containing given characters](103) | Square | Solved | Python |
 | 104 | [Palindrome Linked List](104) | Google | Solved | Python |
 | 105 | [Function Debounce](105) | Facebook | Solved | Python |
+| 106 | [Hop array to other end](106) | Pinterest | Solved | Python, C++ |
