@@ -114,3 +114,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 105 | [Function Debounce](105) | Facebook | Solved | Python |
 | 106 | [Hop array to other end](106) | Pinterest | Solved | Python, C++ |
 | 107 | [Print binary tree level-wise](107) | Microsoft | Solved | Python |
+| 108 | [String shift and check equality](108) | Google | Solved | Python |
