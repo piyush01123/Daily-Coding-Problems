@@ -1,7 +1,7 @@
 
 def anagramIndices(W: str, S: str) -> list:
     """
-    Given word w and string S, finds all starting indices in S which are anagrams of W.
+    Given word w and string S, finds all starting indices in S which are anagrams of W
     """
     H = {}
     for l in W:
