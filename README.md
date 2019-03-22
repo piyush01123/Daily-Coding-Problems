@@ -116,4 +116,6 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 107 | [Print binary tree level-wise](107) | Microsoft | Solved | Python |
 | 108 | [String shift and check equality](108) | Google | Solved | Python |
 | 109 | [Swap even and odd bits](109) | Cisco | Solved | Python |
-| 110 | [All paths in a binary tree](110) | Facebook | Unsolved | Python |
+| 110 | [All paths in a binary tree](110) | Facebook | Solved | Python |
+| 111 | [Anagram start-indices in a string](111) | Google | Solved | Python |
+| 112 | [LCA of Binary Tree](112) | Twitter | Solved | Python |
