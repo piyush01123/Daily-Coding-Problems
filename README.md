@@ -120,4 +120,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 111 | [Anagram start-indices in a string](111) | Google | Solved | Python |
 | 112 | [LCA of Binary Tree](112) | Twitter | Solved | Python |
 | 113 | [Reverse words in a string](113) | Google | Solved | Python |
-| 114 | [Reverse words in string with delimiters relative order](114) | Facebook | Solved | Python |
+| 114 | [Reverse words in string with delimiters relative order](114) | Facebook | Solved | Python, C++ |
