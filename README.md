@@ -9,7 +9,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 |:---:|:-------------:|:-------------:|-------------:|-------------:|
 | 1 | [2-Sum problem](001) | Google | Solved | Python, C++, Java |
 | 2 | [Product except self](002) | Uber | Solved | Python, C++ |
-| 3 | [Serialize and Deserialize Binary Trees](003) | Google | Solved | Python |
+| 3 | [Serialize and Deserialize Binary Trees](003) | Google | Solved | Python, C++ |
 | 4 | [First missing positive](004) | Stripe | Solved | Python, C++ |
 | 5 | [car, cdr, cons](005) | Jane Street | Solved | Python |
 | 6 | [XOR Linked list](006) | Google | Solved | C++ |
@@ -121,3 +121,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 112 | [LCA of Binary Tree](112) | Twitter | Solved | Python |
 | 113 | [Reverse words in a string](113) | Google | Solved | Python, C++ |
 | 114 | [Reverse words in string with delimiters relative order](114) | Facebook | Solved | Python, C++ |
+| 115 | [Check whether one tree is subtree of another](115) | Google | Solved | C++ |
