@@ -121,4 +121,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 112 | [LCA of Binary Tree](112) | Twitter | Solved | Python |
 | 113 | [Reverse words in a string](113) | Google | Solved | Python, C++ |
 | 114 | [Reverse words in string with delimiters relative order](114) | Facebook | Solved | Python, C++ |
-| 115 | [Check whether one tree is subtree of another](115) | Google | Solved | C++ |
+| 115 | [Check whether one binary tree is subtree of another](115) | Google | Solved | C++ |
+| 116 | [Generate arbitrarily sized binary tree](116) | Jane Street | Solved | C++ |
