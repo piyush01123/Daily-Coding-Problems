@@ -125,3 +125,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 116 | [Generate arbitrarily sized binary tree](116) | Jane Street | Solved | C++ |
 | 117 | [Max Level sum in a binary tree](117) | Facebook | Solved | C++ |
 | 118 | [Sort squares of elements in sorted array](118) | Google | Solved | C++ |
+| 119 | [Shortest closest interval](119) | Google | Solved | C++ |
