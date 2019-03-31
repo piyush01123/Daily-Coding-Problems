@@ -126,3 +126,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 117 | [Max Level sum in a binary tree](117) | Facebook | Solved | C++ |
 | 118 | [Sort squares of elements in sorted array](118) | Google | Solved | C++ |
 | 120 | [Singleton pattern with twist](120) | Microsoft | Solved | Python |
+| 121 | [Make palindrome with minimum deletions](121) | Google | Solved | C++, Python 
