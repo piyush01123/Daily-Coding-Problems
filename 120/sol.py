@@ -75,6 +75,14 @@ def main():
     # even call - 1st instance
     # <__main__.SingleTon object at 0x10ae1c518>
 
+    print(SingleTon.getInstance())
+    # odd call - 2nd instance
+    # <__main__.SingleTon object at 0x10ae1c550>
+
+    print(SingleTon.getInstance())
+    # even call - 1st instance
+    # <__main__.SingleTon object at 0x10ae1c518>
+
 
 if __name__=='__main__':
     main()
