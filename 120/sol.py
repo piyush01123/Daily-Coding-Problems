@@ -59,20 +59,21 @@ class SingleTon(object):
 def main():
     # Usage
     print(SingleTon())
-    # <__main__.SingleTon object at 0x10b4bf5f8>
+    # <__main__.SingleTon object at 0x10ae1c518>
 
     print(SingleTon())
-    # <__main__.SingleTon object at 0x10b4bf710>
+    # <__main__.SingleTon object at 0x10ae1c550>
 
     # print(SingleTon())
     # Exception: This is a twisted singleton class
 
     print(SingleTon.getInstance())
-    # <__main__.SingleTon object at 0x10b4bf5f8>
+    # odd call - 2nd instance
+    # <__main__.SingleTon object at 0x10ae1c550>
 
     print(SingleTon.getInstance())
-    # <__main__.SingleTon object at 0x10b4bf710>
-
+    # even call - 1st instance
+    # <__main__.SingleTon object at 0x10ae1c518>
 
 
 if __name__=='__main__':
