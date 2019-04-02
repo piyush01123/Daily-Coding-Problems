@@ -128,3 +128,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 120 | [Singleton pattern with twist](120) | Microsoft | Solved | Python |
 | 121 | [Make palindrome with minimum deletions](121) | Google | Solved | C++, Python |
 | 122 | [Collect maximum coins in 2-D matrix](122) | Zillow | Solved | C++, Python |
+| 123 | [Does string represent a number](123) | LinkedIn | Solved | C++ |
