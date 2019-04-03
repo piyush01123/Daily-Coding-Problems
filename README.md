@@ -129,3 +129,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 121 | [Make palindrome with minimum deletions](121) | Google | Solved | C++, Python |
 | 122 | [Collect maximum coins in 2-D matrix](122) | Zillow | Solved | C++, Python |
 | 123 | [Does string represent a number](123) | LinkedIn | Solved | C++ |
+| 124 | [Flip coins till only one remains](124) | Microsoft | Solved | C++ |
+| 125 | [2-Sum problem in binary tree](125) | Google | Solved | C++ |
