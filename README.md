@@ -133,3 +133,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 125 | [2-Sum problem in binary tree](125) | Google | Solved | C++ |
 | 126 | [Rotate array in-place](126) | Facebook | Solved | C++ |
 | 127 | [Add numbers represented as linked list](127) | Microsoft | Solved | C++ |
+| 128 | [Tower of Hanoi](128) | | Solved | C++ |
