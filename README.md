@@ -135,3 +135,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 127 | [Add numbers represented as linked list](127) | Microsoft | Solved | C++ |
 | 128 | [Tower of Hanoi](128) | | Solved | C++ |
 | 129 | [Square root of a real number](129) | | Solved | C++ |
+| 130 | [Maximum profit from k buy-sells](130) | Facebook | Solved | C++ |
