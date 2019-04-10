@@ -131,3 +131,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 123 | [Does string represent a number](123) | LinkedIn | Solved | C++ |
 | 124 | [Flip coins till only one remains](124) | Microsoft | Solved | C++ |
 | 125 | [2-Sum problem in binary tree](125) | Google | Solved | C++ |
+| 126 | [Rotate array in-place](126) | Facebook | Solved | C++ |
