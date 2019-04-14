@@ -139,3 +139,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 131 | [Deep clone linked list having a random pointer at each node](131) | Snapchat | Solved | C++ |
 | 132 | [Hit Counter class implementation](132) | Riot Games | Solved | C++ |
 | 133 | [In-Order successor of a node in a binary tree](133) | Amazon | Solved | C++ |
+| 134 | [Large sparse array data structure](134) | Facebook | Solved | C++ |
+| 135 | [Min root to leaf sum path in binary tree](135) | Apple | Solved | C++ |
