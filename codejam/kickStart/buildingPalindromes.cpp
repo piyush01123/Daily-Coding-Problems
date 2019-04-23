@@ -73,23 +73,23 @@ bool isPalindromableFaster(const std::unordered_map<char, std::vector<int>> &H, 
 
 
 int main(){
-    // std::unordered_map<char, std::vector<int>> H = prefixFrequencies("dekhodekhodekhoaayasher");
-    // int T, N, Q, l, r;
-    // std::string S;
-    // std::cin >> T;
-    // for (int t=1; t<=T; t++){
-    //     std::cin >> N;
-    //     std::cin >> Q;
-    //     std::cin >> S;
-    //     std::unordered_map<char, std::vector<int>> H = prefixFrequencies(S);
-    //     int ctr = 0;
-    //     for (int q=0; q<Q; q++){
-    //         std::cin >> l;
-    //         std::cin >> r;
-    //         if (N==1 || l==r || isPalindromableFaster(H, l, r)) ctr++;
-    //     }
-    //   std::cout << "Case #" << t << ": " << ctr << std::endl;
-    // }
+    std::unordered_map<char, std::vector<int>> H = prefixFrequencies("dekhodekhodekhoaayasher");
+    int T, N, Q, l, r;
+    std::string S;
+    std::cin >> T;
+    for (int t=1; t<=T; t++){
+        std::cin >> N;
+        std::cin >> Q;
+        std::cin >> S;
+        std::unordered_map<char, std::vector<int>> H = prefixFrequencies(S);
+        int ctr = 0;
+        for (int q=0; q<Q; q++){
+            std::cin >> l;
+            std::cin >> r;
+            if (N==1 || l==r || isPalindromableFaster(H, l, r)) ctr++;
+        }
+      std::cout << "Case #" << t << ": " << ctr << std::endl;
+    }
     std::string S = "Dekhodekhodekhoaayasher";
     std::cout << S[0]-'A'<<std::endl;
     return 0;
