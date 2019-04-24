@@ -33,7 +33,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 24 | [Binary Tree Locking](024) | Google | Solved | Python |
 | 25 | [Regular Expression Implementation](025) | Facebook | Unsolved |  |
 | 26 | [Remove k<sup>th</sup> last element in linked list](026) | Google | Solved | Python |
-| 27 | [Balanced brackets](027) | Facebook | Unsolved |  |
+| 27 | [Balanced parantheses](027) | Facebook | Unsolved |  |
 | 28 | [Justify text](028) | Palantir | Solved | Python |
 | 29 | [Run length encoding](029) | Amazon | Solved | Python |
 | 30 | [Elevation map](030) | Facebook | Solved | Python, C++ |
@@ -56,7 +56,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 47 | [Maximum stock profit](047) | Facebook | Solved | Python |
 | 48 | [Reconstruct binary tree given preorder and postorder traversals](048) | Google | Solved | Python |
 | 49 | [Max Sum Subarray or Kadane's algorithm](049) | Amazon | Solved | Python |
-| 50 | [Binary Tree Arithmetic](050) | Microsoft | Solved | Python |
+| 50 | [Binary Tree Arithmetic](050) | Microsoft | Solved | Python, C++ |
 | 51 | [Deck shuffling with swaps only](051) | Facebook | Solved | Python |
 | 52 | [LRU Cache Implementation](052) | Google | Solved | Python |
 | 53 | [Queue Implementation](053) | Apple | Solved | Python |
@@ -141,3 +141,13 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 133 | [In-Order successor of a node in a binary tree](133) | Amazon | Solved | C++ |
 | 134 | [Large sparse array data structure](134) | Facebook | Solved | C++ |
 | 135 | [Min root to leaf sum path in binary tree](135) | Apple | Solved | C++ |
+| 136 | [Largest rectangle in a matrix](136)| Google | |
+| 137 | [Bit array implementation](138)| Amazon | |
+| 138 | [Minimum coins for n cents](138)| Google | |
+| 139 | [Peekable iterator](139)| Google | Solved | Python |
+| 140 | [Which two elements occur once in array](140)| Facebook | Solved | C++ |
+| 141 | [3 stacks implementation](141)| Microsoft | Solved | C++ |
+| 142 | [Balanced parantheses - II](142)| Google | |
+| 143 | [List partitioning](143)| Amazon | |
+| 144 | [Nearest larger number in an array](144)| Google | Solved | C++ |
+| 145 | [Pairwise swap linked list nodes](145) | Google | Solved | C++ |
