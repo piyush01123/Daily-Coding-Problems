@@ -142,12 +142,13 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 134 | [Large sparse array data structure](134) | Facebook | Solved | C++ |
 | 135 | [Min root to leaf sum path in binary tree](135) | Apple | Solved | C++ |
 | 136 | [Largest rectangle in a matrix](136)| Google | |
-| 137 | [Bit array implementation](138)| Amazon | |
-| 138 | [Minimum coins for n cents](138)| Google | |
+| 137 | [Bit array implementation](138)| Amazon | Solved | C++ |
+| 138 | [Minimum coins for n cents](138)| Google | Solved | C++ |
 | 139 | [Peekable iterator](139)| Google | Solved | Python |
 | 140 | [Which two elements occur once in array](140)| Facebook | Solved | C++ |
 | 141 | [3 stacks implementation](141)| Microsoft | Solved | C++ |
 | 142 | [Balanced parantheses - II](142)| Google | |
-| 143 | [List partitioning](143)| Amazon | |
+| 143 | [List partitioning](143)| Amazon  | Solved | C++ |
 | 144 | [Nearest larger number in an array](144)| Google | Solved | C++ |
 | 145 | [Pairwise swap linked list nodes](145) | Google | Solved | C++ |
+| 146 | [Binary tree pruning](146) | BufferBox | Solved | C++ |
