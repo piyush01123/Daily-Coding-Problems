@@ -141,7 +141,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 133 | [In-Order successor of a node in a binary tree](133) | Amazon | Solved | C++ |
 | 134 | [Large sparse array data structure](134) | Facebook | Solved | C++ |
 | 135 | [Min root to leaf sum path in binary tree](135) | Apple | Solved | C++ |
-| 136 | [Largest rectangle in a matrix](136)| Google | |
+| 136 | [Largest rectangle in a matrix](136)| Google | Solved | C++ |
 | 137 | [Bit array implementation](138)| Amazon | Solved | C++ |
 | 138 | [Minimum coins for n cents](138)| Google | Solved | C++ |
 | 139 | [Peekable iterator](139)| Google | Solved | Python |
