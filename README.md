@@ -152,3 +152,4 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 144 | [Nearest larger number in an array](144)| Google | Solved | C++ |
 | 145 | [Pairwise swap linked list nodes](145) | Google | Solved | C++ |
 | 146 | [Binary tree pruning](146) | BufferBox | Solved | C++ |
+| 147 | [Pancake Sort](147) | | Solved | C++ |
