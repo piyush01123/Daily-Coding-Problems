@@ -153,3 +153,19 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 145 | [Pairwise swap linked list nodes](145) | Google | Solved | C++ |
 | 146 | [Binary tree pruning](146) | BufferBox | Solved | C++ |
 | 147 | [Pancake Sort](147) | | Solved | C++ |
+| 148 | [Subarray sum](148) | Goldman Sachs | Solved | C++ |
+| 149 | [Gray code](149) | Apple | Solved | C++ |
+| 150 | [K nearest neighbors](150) | LinkedIn | Solved | C++ |
+| 151 | [Color image](151) | | Solved | C++ |
+| 152 | [Random number generator](152) | Triplebyte | Solved | C++ |
+| 153 | [Minimum word distance](153) | | Solved | C++ |
+| 154 | [Stack implementation using heap API](154) | Amazon | Solved | C++ |
+| 155 | [Majority Element](155) | MongoDB | Solved | C++ |
+| 156 | [smallest number of squared integers which sum to n](156) | Facebook | Solved | C++ |
+| 157 | [Palindrome string permutation possible](157) | Amazon | Solved | C++ |
+| 158 | [Walled fort](158) | | Solved | C++ |
+| 159 | [First recurring character in string](159) | Google | Solved | C++ |
+| 160 | [Longest path in tree](160) | Uber | Solved | C++ |
+| 161 | [Reverse bits](161) | Facebook | Solved | C++ |
+| 162 | [Shortest unique prefix](162) | Square | Solved | C++ |
+| 163 | [Reverse Polish notation](163) | Jane Street | Solved | C++ |
