@@ -6,9 +6,9 @@
 int majorityElement(std::vector<int> lst){
   std::unordered_map<int, int> H;
   for (int elem: lst) H[elem]++;
-  for (int elem: lst){
-    if (H[elem]>=lst.size()/2){
-      return elem;
+  for (auto item: H){
+    if (item.second>=lst.size()/2){
+      return item.first;
     }
   }
   return -1;

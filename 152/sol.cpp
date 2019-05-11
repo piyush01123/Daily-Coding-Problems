@@ -10,30 +10,32 @@ private:
   double *cumProbs;
   int size;
 public:
-  randomGenerator(int numbers[], double probabilities[], int sz){
-    nums = numbers;
-    size = sz;
-    cumProbs = new double[size];
-    double p = 0;
-    for (int i=0; i<sz; i++){
-      p += probabilities[i];
-      cumProbs[i] = p;
-    }
-  }
-
-  int *generate(int n){
-    std::srand(std::time(nullptr)); //seed by curr. time
-
-    int *rand_nums = new  int[n];
-    for (int i=0; i<n; i++){
-      double rand_dbl = double(rand())/double(RAND_MAX);
-      int j=0;
-      while (rand_dbl>cumProbs[j]) j++;
-      rand_nums[i] = nums[j];
-    }
-    return rand_nums;
-  }
+  randomGenerator(int[], double[], int);
+  int *generate(int);
 };
+
+randomGenerator::randomGenerator(int numbers[], double probabilities[], int sz){
+  nums = numbers;
+  size = sz;
+  cumProbs = new double[size];
+  double p = 0;
+  for (int i=0; i<sz; i++){
+    p += probabilities[i];
+    cumProbs[i] = p;
+  }
+}
+
+int *randomGenerator::generate(int n){
+  std::srand(std::time(nullptr)); //seed by curr. time
+  int *rand_nums = new  int[n];
+  for (int i=0; i<n; i++){
+    double rand_dbl = double(rand())/double(RAND_MAX);
+    int j=0;
+    while (rand_dbl>cumProbs[j]) j++;
+    rand_nums[i] = nums[j];
+  }
+  return rand_nums;
+}
 
 void test(){
   int N[] = {1, 2, 3, 4};
