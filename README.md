@@ -165,7 +165,8 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 157 | [Palindrome string permutation possible](157) | Amazon | Solved | C++ |
 | 158 | [Walled fort](158) | | Solved | C++ |
 | 159 | [First recurring character in string](159) | Google | Solved | C++ |
-| 160 | [Longest path in tree](160) | Uber | Solved | C++ |
+| 160 | [Longest path in tree](160) | Uber | | C++ |
 | 161 | [Reverse bits](161) | Facebook | Solved | C++ |
-| 162 | [Shortest unique prefix](162) | Square | Solved | C++ |
+| 162 | [Shortest unique prefix](162) | Square | | C++ |
 | 163 | [Reverse Polish notation](163) | Jane Street | Solved | C++ |
+| 164 | [Find the only duplicate in array](164) | Google | Solved | C++ |
