@@ -49,7 +49,7 @@ int evaluateRPN(int arr[], int n){
       v.push_back(arr[i]);
       i++;
     }
-    while(i<n && (arr[i]==42 || arr[i]==43 || arr[i]==45 || arr[i]==4)){
+    while(i<n && (arr[i]==42 || arr[i]==43 || arr[i]==45 || arr[i]==47)){
       v.push_back(arr[i]);
       i++;
     }
