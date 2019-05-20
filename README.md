@@ -165,8 +165,12 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 157 | [Palindrome string permutation possible](157) | Amazon | Solved | C++ |
 | 158 | [Walled fort](158) | | Solved | C++ |
 | 159 | [First recurring character in string](159) | Google | Solved | C++ |
-| 160 | [Longest path in tree](160) | Uber | | C++ |
+| 160 | [Longest path in tree](160) | Uber | | |
 | 161 | [Reverse bits](161) | Facebook | Solved | C++ |
-| 162 | [Shortest unique prefix](162) | Square | | C++ |
+| 162 | [Shortest unique prefix](162) | Square | | |
 | 163 | [Reverse Polish notation](163) | Jane Street | Solved | C++ |
 | 164 | [Find the only duplicate in array](164) | Google | Solved | C++ |
+| 165 | [Number of smaller elements to the right in an array](165) | Google | Solved | C++ |
+| 166 | [2-D iterator class](166) | Uber | | |
+| 167 | [Palindrome concatenation pairs](167) | Airbnb | Solved | C++ |
+| 168 | [Rotate 2-D array in-place](168) | Facebook | Solved | C++ |

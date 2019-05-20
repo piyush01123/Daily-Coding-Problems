@@ -26,7 +26,7 @@ void test(){
   for (int b: B) std::cout<<b<<' ';std::cout<<'\n';
   C = {3, 4, 6, 2, 9};
   D = smallerElements(C);
-  for (int b: D) std::cout<<b<<' ';std::cout<<'\n';
+  for (int d: D) std::cout<<d<<' ';std::cout<<'\n';
 }
 
 int main(){
