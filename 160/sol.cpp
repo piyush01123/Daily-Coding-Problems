@@ -18,6 +18,10 @@ struct node{
   }
 };
 
+class node{
+private:
+  char id;
+};
 
 void maxPathUtil(node root){
   std::cout<<"running with root "<<root.id<<" having N(edges) = "<<root.edges.size()<<'\n';
@@ -46,6 +50,7 @@ void check_sth(node root){
 
 void test2(){
   node a = node('a');
+  a.edges;
   node b = node('b');
   node c = node('c');
   node d = node('d');

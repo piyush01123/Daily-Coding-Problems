@@ -1,7 +1,6 @@
 
 // program to return a constant value from device
 #include <stdio.h>
-#include <cuda.h>
 
 __global__ void test(int *n){
   *n = 0;
