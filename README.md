@@ -171,6 +171,15 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 163 | [Reverse Polish notation](163) | Jane Street | Solved | C++ |
 | 164 | [Find the only duplicate in array](164) | Google | Solved | C++ |
 | 165 | [Number of smaller elements to the right in an array](165) | Google | Solved | C++ |
-| 166 | [2-D iterator class](166) | Uber | | |
+| 166 | [2-D iterator class](166) | Uber | Solved | C++ |
 | 167 | [Palindrome concatenation pairs](167) | Airbnb | Solved | C++ |
 | 168 | [Rotate 2-D array in-place](168) | Facebook | Solved | C++ |
+| 169 | [Sort a linked list](169) | Google | Solved | C++ |
+| 170 | [Shortest transformation from start word to end word](170) | Facebook | | | |
+| 171 | [Busiest time interval from a register](171) | Amazon | Solved | C++ |
+| 172 | [Starting indices of word concatenations in a string](172) | Dropbox | | | |
+| 173 | [Flatten a nested dictionary](173) | Stripe | Solved | Python |
+| 174 | [Polymorphism examples](174) | Microsoft | Solved | C++ |
+| 175 | [Markov chain simulation](175) | Google | Solved | C++ |
+| 176 | [One-to-one character mapping between two strings](176) | Bloomberg | Solved | C++ |
+| 177 | [Rotate a linked list](177) | Airbnb | Solved | C++ |

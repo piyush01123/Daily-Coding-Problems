@@ -21,21 +21,14 @@ std::vector<std::string> possibleWords(std::string start, std::string end){
   return vec;
 }
 
-std::vector<std::string> transForm(std::string start, std::string end, std::vector<std::string> dictionary){
-  if (!isPresent(end, dictionary)){
-    return {};
+void transForm(std::string start, std::string end, std::vector<std::string> dictionary, std::vector<std::string> &path){
+  if (!isPresent(start, dictionary)){
+    return;
   }
-
-  int n = start.length(); //word length
-  while (start !=end || !isPresent(start, dictionary)){
-    path.push_back(start);
-    std::vector<std::string> words = possibleWords(start, end);
-    for (auto word: words){
-      if (isPresent(word, dictionary)){
-        std::vector<std::string> path = transForm()
-      }
-      // path.pop_back()
-    }
+  path.push_back(start);
+  std::vector<std::string> words = possibleWords(start, end);
+  for (auto word: words){
+    transForm(word, end, dictionary, path);
   }
 }
 
