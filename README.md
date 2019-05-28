@@ -183,3 +183,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 175 | [Markov chain simulation](175) | Google | Solved | C++ |
 | 176 | [One-to-one character mapping between two strings](176) | Bloomberg | Solved | C++ |
 | 177 | [Rotate a linked list](177) | Airbnb | Solved | C++ |
+| 178 | [Dice Simulation](178) | Two Sigma | Solved | C++ |
+| 179 | [Recover BST from its postorder traversal](179) | Google | Solved | C++ |
