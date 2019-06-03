@@ -1,4 +1,4 @@
-his problem was asked by Google.
+This problem was asked by Google.
 
 Given two rectangles on a 2D graph, return the area of their intersection. If the rectangles don't intersect, return 0.
 

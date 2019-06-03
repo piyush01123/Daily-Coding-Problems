@@ -84,7 +84,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 75 | [Largest increasing subsequence](075) | Microsoft | Solved | Python |
 | 76 | [Lexicographic matrix sort](076) | Google | Solved | Python |
 | 77 | [Merge overlapping intervals](077) | Snapchat | Solved | Python |
-| 78 | [Merge sorted linked lists](078) | Google | Solved | Python |
+| 78 | [Mergesort linked lists](078) | Google | Solved | Python |
 | 79 | [Modifiabale non-decreasing array](079) | Facebook | Solved | Python |
 | 80 | [Deepest Node in Binary Tree](080) | Google | Solved | Python, C++ |
 | 81 | [Letter Combinations from Dictionary](081) | Yelp | Solved | Python |
@@ -186,3 +186,8 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 178 | [Dice Simulation](178) | Two Sigma | Solved | C++ |
 | 179 | [Recover BST from its postorder traversal](179) | Google | Solved | C++ |
 | 180 | [Interleave two halves of a stack using a queue](180) | Google | Solved | C++ |
+| 181 | [Minimum number of palindromes in a string](181) | Google | | |
+| 182 | [Minimally connected graph](182) | Facebook | | |
+| 183 | [What happens when you type a URL](183) | Twitch | Solved | NA |
+| 184 | [Calculate GCD of numbers](184) | Amazon | Solved | C++ |
+| 185 | [Calculate IOU](185) | Google | Solved | C++ |
