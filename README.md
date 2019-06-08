@@ -187,7 +187,13 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 179 | [Recover BST from its postorder traversal](179) | Google | Solved | C++ |
 | 180 | [Interleave two halves of a stack using a queue](180) | Google | Solved | C++ |
 | 181 | [Minimum number of palindromes in a string](181) | Google | | |
-| 182 | [Minimally connected graph](182) | Facebook | | |
+| 182 | [Minimally connected graph](182) | Facebook | Solved | C++ |
 | 183 | [What happens when you type a URL](183) | Twitch | Solved | NA |
 | 184 | [Calculate GCD of numbers](184) | Amazon | Solved | C++ |
-| 185 | [Calculate IOU](185) | Google | Solved | C++ |
+| 185 | [Calculate intersection area](185) | Google | Solved | C++ |
+| 186 | [Divide array into 2 subsets with min difference of subset sums ](186) | Microsoft | | |
+| 187 | [Overlapping rectangles](187) | Google | Solved | C++ |
+| 188 | [Array of functions](188) | Google | Solved | C++ |
+| 189 | [Longest contiguous distinct subarray](189)| Google | Solved | C++ |
+| 190 | [Max sum subarray of circular array](190) | Facebook | Solved | C++ |
+| 191 | [Min intervals to remove to make them non-overlapping](191) | Stripe | Solved | C++ |

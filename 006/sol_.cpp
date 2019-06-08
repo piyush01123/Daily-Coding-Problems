@@ -29,6 +29,27 @@ node *XOR(node *n1, node *n2){
   return n;
 }
 
+class XORLinkedList{
+private:
+  node *head, *tail, *t_tail;
+  int length;
+public:
+  XORLinkedList(){
+    length = 0;
+  }
+  void add(int a){
+    if (length==0){
+      head = tail = new node;
+      head->data = a;
+      head->xored = XOR(nullptr, nullptr);
+    } else if (length){
+      new_tail = new node;
+      tail->xored = XOR(tail, )
+    }
+  }
+
+};
+
 int main(){
   node *n = new node;
   n->data = 20;
