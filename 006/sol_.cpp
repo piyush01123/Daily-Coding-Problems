@@ -42,10 +42,11 @@ public:
       head = tail = new node;
       head->data = a;
       head->xored = XOR(nullptr, nullptr);
-    } else if (length){
-      new_tail = new node;
-      tail->xored = XOR(tail, )
     }
+    //  else if (length){
+    //   new_tail = new node;
+    //   tail->xored = XOR(tail, )
+    // }
   }
 
 };
