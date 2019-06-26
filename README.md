@@ -197,3 +197,20 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 189 | [Longest contiguous distinct subarray](189)| Google | Solved | C++ |
 | 190 | [Max sum subarray of circular array](190) | Facebook | Solved | C++ |
 | 191 | [Min intervals to remove to make them non-overlapping](191) | Stripe | Solved | C++ |
+| 192 | [Try to reach end of array with array value-sized hops](193) | Google | | |
+| 193 | [Max profit in a stock price array with a fixed transaction fee](194) | Affirm | | |
+| 194 | [Number of intersections between line segments joining two sets of n points of parallel lines](194) | Facebook | | |
+| 195 | [Count elements between two numbers in a 2-D array](195) | Google | | |
+| 196 | [Most frequent subtree sum](196) | Apple | Solved | C++ |
+| 197 | [Rotate array to the right by K in-place](197) | Amazon | | |
+| 198 | [Largest set of non-coprime numbers in a set](198) | Google | | |
+| 199 | [Balanced parantheses - III](199) | Facebook | | |
+| 200 | [Find a stabbing point between n intervals](200) | Microsoft | | |
+| 201 | [Maximum sum path in a triangular array](201) | Google | | |
+| 202 | [Integer palindrome](202) | Palantir | | |
+| 203 | [Minimum element in rotated sorted array in faster than linear time](203) | Uber | Solved | C++ |
+| 204 | [Count the number of nodes in a complete binary tree in faster than linear time](204) | Amazon | Solved | C++ |
+| 205 | [Given a number find the next permutation of it](205) | IBM | | |
+| 206 | [Apply a permutation on an array](206) | Twitter | | |
+| 207 | [Check if a graph is bipartite](207) | Dropbox | | |
+| 208 | [Partition a linked list by a node such that all elements >= a node come after those smaller](208) | LinkedIn | | |
