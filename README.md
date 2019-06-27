@@ -207,10 +207,10 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 199 | [Balanced parantheses - III](199) | Facebook | | |
 | 200 | [Find a stabbing point between n intervals](200) | Microsoft | | |
 | 201 | [Maximum sum path in a triangular array](201) | Google | | |
-| 202 | [Integer palindrome](202) | Palantir | | |
+| 202 | [Integer palindrome](202) | Palantir | Solved | C++ |
 | 203 | [Minimum element in rotated sorted array in faster than linear time](203) | Uber | Solved | C++ |
 | 204 | [Count the number of nodes in a complete binary tree in faster than linear time](204) | Amazon | Solved | C++ |
-| 205 | [Given a number find the next permutation of it](205) | IBM | | |
+| 205 | [Given a number find the next permutation of it](205) | IBM | Solved | C++ |
 | 206 | [Apply a permutation on an array](206) | Twitter | Solved | C++ |
 | 207 | [Check if a graph is bipartite](207) | Dropbox | | |
 | 208 | [Partition a linked list by a node such that all elements >= a node come after those smaller](208) | LinkedIn | Solved | C++ |
