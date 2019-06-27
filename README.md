@@ -211,6 +211,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 203 | [Minimum element in rotated sorted array in faster than linear time](203) | Uber | Solved | C++ |
 | 204 | [Count the number of nodes in a complete binary tree in faster than linear time](204) | Amazon | Solved | C++ |
 | 205 | [Given a number find the next permutation of it](205) | IBM | | |
-| 206 | [Apply a permutation on an array](206) | Twitter | | |
+| 206 | [Apply a permutation on an array](206) | Twitter | Solved | C++ |
 | 207 | [Check if a graph is bipartite](207) | Dropbox | | |
-| 208 | [Partition a linked list by a node such that all elements >= a node come after those smaller](208) | LinkedIn | | |
+| 208 | [Partition a linked list by a node such that all elements >= a node come after those smaller](208) | LinkedIn | Solved | C++ |
+| 209 | [Longest common subsequence of 3 strings](209) | YouTube | | |
