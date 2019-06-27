@@ -11,13 +11,13 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 2 | [Product except self](002) | Uber | Solved | Python, C++ |
 | 3 | [Serialize and Deserialize Binary Trees](003) | Google | Solved | Python, C++ |
 | 4 | [First missing positive](004) | Stripe | Solved | Python, C++ |
-| 5 | [car, cdr, cons](005) | Jane Street | Solved | Python |
+| 5 | [car, cdr, cons](005) | Jane Street | Solved | Python, C++ |
 | 6 | [XOR Linked list](006) | Google | Solved | C++ |
 | 7 | [Number of ways to decode a message](007) | Facebook | Solved |  Python, C++ |
-| 8 | [Universal Value Tree Count](008) | Google | Solved | Python |
-| 9 | [Largest sum of non-adjacent numbers in array](009) | Airbnb | Solved | Python |
-| 10 | [ Job Scheduler](010) | Apple | Solved | Python |
-| 11 | [Autocomplete system](011) | Twitter | Solved | Python |
+| 8 | [Universal Value Tree Count](008) | Google | Solved | Python, C++ |
+| 9 | [Largest sum of non-adjacent numbers in array](009) | Airbnb | Solved | Python, C++ |
+| 10 | [ Job Scheduler](010) | Apple | Solved | Python, C++ |
+| 11 | [Autocomplete system](011) | Twitter | Solved | Python, C++ |
 | 12 | [Number of ways to climb a staircase](012) | Amazon | Solved | Python |
 | 13 | [Longest substring with at most K distinct characters](013) | Amazon | Solved | Python |
 | 14 | [Pi estimation using Monte Carlo method](014) | Google | Solved | Python |
