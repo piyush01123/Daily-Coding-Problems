@@ -15,3 +15,11 @@ For example, the following tree has 5 unival subtrees:
   / \
  1   1
 ```
+
+```
+      5
+    /   \
+  5      5
+ / \     /\
+6   8   9  7
+```
