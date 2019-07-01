@@ -215,3 +215,7 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 207 | [Check if a graph is bipartite](207) | Dropbox | | |
 | 208 | [Partition a linked list by a node such that all elements >= a node come after those smaller](208) | LinkedIn | Solved | C++ |
 | 209 | [Longest common subsequence of 3 strings](209) | YouTube | | |
+| 210 | [Collatz conjecture verificity and longest sequence](210)| Apple | Solved | C++ |
+| 211 | [All starting positions of a pattern in a string](211)| Microsoft | Solved | C++ |
+| 212 | [Excel column encoding of a positive integer](212)| Dropbox | Solved | C++ |
+| 213 | [Valid IP address combinations from a string](213)| Snapchat | Solved | C++ |
