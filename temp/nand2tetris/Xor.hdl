@@ -1,0 +1,12 @@
+/*XOR gate: (NOT(a) AND b) OR (a AND NOT(b))*/
+CHIP Xor{
+  IN a, b;
+  OUT out;
+
+  PARTS:
+  Not (in=a, out=nota);
+  Not (in=b, out=notb);
+  And (a=a, b=notb, out=aAndNotb);
+  And (a=b, b=nota, out=notaAndb);
+  Or (a=aAndNotb, b=notaAndb, out=out);
+}
