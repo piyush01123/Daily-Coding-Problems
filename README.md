@@ -220,22 +220,6 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 212 | [Excel column encoding of a positive integer](212)| Dropbox | Solved | C++ |
 | 213 | [Valid IP address combinations from a string](213)| Snapchat | Solved | C++ |
 | 214 | [Max continuous ones in binary representation of a number](214) | Stripe | Solved | C++ |
-| 215 | | | | |
-| 216 | | | | |
-| 217 | | | | |
-| 218 | | | | |
-| 219 | | | | |
-| 220 | | | | |
-| 221 | | | | |
-| 222 | | | | |
-| 223 | | | | |
-| 224 | | | | |
-| 225 | | | | |
-| 226 | | | | |
-| 227 | | | | |
-| 228 | | | | |
-| 229 | | | | |
-| 230 | | | | |
-| 231 | | | | |
-| 232 | | | | |
-| 233 | | | | |
+| | | | | |
+| 295| [Pascal's Triangle](295) | Stitch Fix | Solved | C++ |
+| 296| [Convert sorted array to Balanced BST](296) | Etsy | Solved | C++ |
