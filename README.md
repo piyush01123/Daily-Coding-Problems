@@ -221,6 +221,11 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 213 | [Valid IP address combinations from a string](213)| Snapchat | Solved | C++ |
 | 214 | [Max continuous ones in binary representation of a number](214) | Stripe | Solved | C++ |
 | | | | | |
+| 291 | [Minimum boats to rescue](291) | Glassdoor | Solved | C++ |
+| | | | | |
+| 294 | [Min Running Track Path](294) | Square | Solved | C++ |
 | 295 | [Pascal's Triangle](295) | Stitch Fix | Solved | C++ |
 | 296 | [Convert sorted array to Balanced BST](296) | Etsy | Solved | C++ |
 | 297 | [Minimum drinks to satisfy preferences](297) | Amazon | Solved | C++ |
+| 298 | [Max Run with at most two discrete elements](298) | Google | Solved | C++ |
+| 299 | [Min pipe length required for a city graph](299) | Samsung | Solved | C++ |
