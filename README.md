@@ -229,3 +229,5 @@ If you are looking to help out a fellow programmer, please head over to the [Iss
 | 297 | [Minimum drinks to satisfy preferences](297) | Amazon | Solved | C++ |
 | 298 | [Max Run with at most two discrete elements](298) | Google | Solved | C++ |
 | 299 | [Min pipe length required for a city graph](299) | Samsung | Solved | C++ |
+| | | | | |
+| 311 | [Peak element in array in O(log N) time](311) | Sumo Logic | Solved | C++ |
